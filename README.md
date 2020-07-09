@@ -1,4 +1,4 @@
-<img src="./logo.png" width="75px">
+<img src="https://github.com/imjasonmiller/imjasonmiller/raw/master/logo.png" width="75px">
 
 Hi! I'm a creative developer with a strong background in design, animation and compositing.  👨🏽‍💻
 
