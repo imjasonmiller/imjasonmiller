@@ -6,6 +6,5 @@ Programming languages I'm familiar with are JavaScript, TypeScript and Rust 🦀
 
 # Where to find me 👨🏽‍🚀
 
-- [Website](https://jasonmiller.nl)
-- [Twitter](https://twitter.com/imjasonmiller)
-
+- ✨ [Website](https://jasonmiller.nl)
+- 🐦 [Twitter](https://twitter.com/imjasonmiller)
